@@ -1,4 +1,4 @@
-# EECS542_Practice
+# EECS542_Models
 
 This is repository for coding some interesting models mentioned in [EECS 542: Advanced Topics in Computer Vision](https://web.eecs.umich.edu/~ahowens/eecs542/w24/). They include diffusion model, transformer, Neural Radiance Field (NeRF).
 
