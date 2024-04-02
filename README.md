@@ -7,4 +7,5 @@ This is repository for coding some interesting models mentioned in [EECS 542: Ad
 3. [Vit](https://arxiv.org/abs/2010.11929): transformer in vision.
 4. [MAE](https://arxiv.org/abs/2111.06377): masked autoencoders in vision, similar to BERT in NLP.
 5. [Stable Diffusion](https://arxiv.org/abs/2112.10752): combines diffuion, transformer, and UNet.
-6. [bark](https://github.com/suno-ai/bark): Suno's transformer-based text-to-audio model.
+6. [ControlNet](https://arxiv.org/abs/2302.05543): conditioning controls with Stable Diffusion.
+7. [bark](https://github.com/suno-ai/bark): Suno's transformer-based text-to-audio model.
